@@ -1,0 +1,15 @@
+:root {
+  /* colors */
+  --primary: #597193;
+  --secoundary: #eaeff6;
+  --light-blue:#B1BED0;
+  --dark : #353637;
+  --light: #fff;
+  --light-text:#A9A9A9;
+  /* box shadows */
+  --main-shadow: 0px 4px 12px 0px #15151526;
+  /* border radius */
+  --main-radius: 4px;
+  /* transitions */
+  --main-transition: 0.2s ease-in-out all;
+}
